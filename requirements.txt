@@ -1,0 +1,9 @@
+numpy==2.0.2
+pandas==2.3.3
+scikit-learn==1.6.1
+matplotlib==3.9.4
+seaborn==0.13.2
+phik==0.12.5
+joblib==1.5.3
+scipy==1.13.1
+catboost==1.2.10
